@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">chessAI</string>
+    <string name="heading">Chess AI</string>
+    <string name="MPlocal">Multiplayer (Local)</string>
+    <string name="contentDescription">nothing</string>
+    <string name="AIlocal">Singleplayer</string>
+    <string name="puzzle">Puzzles</string>
+    <string name="puzzleInstructions">Select a puzzle</string>
+</resources>
