@@ -5,5 +5,7 @@ Screenshots:
 
 It makes use of a minimax algorithm using alpha beta pruning, default depth is 3. Performs pretty well. 
 
+feel free to try the apk file: https://drive.google.com/file/d/1HE6KIgRMuqAVzZCsrR1MIX1pgGoSpnmU/view?usp=sharing
 
 Note: it does not have advanced features such as pawns transforming at the end or castling. All code is self written.
+
